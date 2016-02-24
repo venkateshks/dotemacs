@@ -1,0 +1,13 @@
+* This an attempt at creating a brand new emacs config based off use-package
+  Cleaning my 16 years old emacs config to make it easy to port to different
+  machines
+* Will cover the following in this config
+  - Different progamming modes (python, C, C++, Clojure, Clojurescript)
+    And finally a Java mode as well.
+  - Org mode for pratically everything (todos, ppts, bookmarks)
+  - Email, I have been a heavy gnus and mu4e user. Need to decide which way
+    to go. Like some bits of both. But I like the notmuch approach of keeping
+    mails in the server. That way I can keep my client machines thin. One of my
+    machines is actually a x86 tablet with linux on it.
+  - Emacs for my ledger
+* The org files itself will be parked in a different private repo.
