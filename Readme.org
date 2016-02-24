@@ -1,4 +1,4 @@
-* This an attempt at creating a brand new emacs config based off use-package
+* Brand new emacs config based off use-package
   Cleaning my 16 years old emacs config to make it easy to port to different
   machines
 * Will cover the following in this config
